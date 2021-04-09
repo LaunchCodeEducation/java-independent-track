@@ -107,7 +107,7 @@ h5 a:hover {
 
 .toctree-wrapper > ul > li > a,
 .toctree-wrapper > ol > li > a {
-	font-size: 20px;
+   font-size: 20px;
 }
 code {
     background: none;
@@ -118,8 +118,8 @@ code {
 }
 
 .pager code {
-	color: #fff;
-	font-weight: bold;
+   color: #fff;
+   font-weight: bold;
 }
 
 .navbar-brand {
@@ -160,12 +160,12 @@ code {
 
 /* Aside Boxes and Admonitions  */
 .fas {
-	color: #FF4F33;
+   color: #FF4F33;
 }
 
 .fas.fa-external-link-alt {
-	color: inherit;
-	font-size: 10px;
+   color: inherit;
+   font-size: 10px;
     padding-left: 4px;
 }
 
@@ -252,7 +252,7 @@ div.admonition {
 }
 
 .admonition-question > p, .admonition-question > ul {
-	margin-bottom: 10px;
+   margin-bottom: 10px;
 }
 
 .admonition-question ol,
@@ -300,11 +300,11 @@ div.highlight-js + p.repl-link,
 div.highlight-none + p.repl-link,
 div.highlight-css + p.repl-link,
 div.highlight-html + p.repl-link  {
-	margin-top: -1em;
+   margin-top: -1em;
 }
 
 .highlighttable .linenos {
-	 padding-top: 1em;
+    padding-top: 1em;
     background-color: #354a5f;
     border-radius: 4px 0 0 4px;
     width: 52px;
@@ -319,7 +319,7 @@ div.highlight-html + p.repl-link  {
     color: #fff;
     border-right: 1px solid #fff;
     border-radius: 0;
-	 background-color: #354a5f;
+    background-color: #354a5f;
 }
 
 table.highlighttable {
@@ -329,7 +329,7 @@ table.highlighttable {
 }
 
 table.highlighttable td {
-	padding: 0;
+   padding: 0;
 }
 
 .highlighttable .code pre {
